@@ -16,3 +16,9 @@ I am a software engineer and a freelance technical writer/documentation engineer
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
+## Milestones
+* 50+ original technical articles written
+* Two official documentations designed
+
+## Articles
+
