@@ -1,8 +1,8 @@
-## Leslie Gyamfi--@starboyles | Software Engineer and Docs Engineer/Technical Writer
+# Leslie Gyamfi--@starboyles | Software Engineer and Docs Engineer/Technical Writer
 
 I am a software engineer and a freelance technical writer/documentation engineer.
 
-# 🔧 Skills
+## 🔧 Skills
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
