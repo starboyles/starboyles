@@ -2,6 +2,13 @@
 
 I am a software engineer and a freelance technical writer/documentation engineer.
 
+
+# 🔧 Skills
+
+## Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lesliegyamfi)
+[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lesliegyammfi02@gmail.com)
+
 ## 🔧 Skills
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
