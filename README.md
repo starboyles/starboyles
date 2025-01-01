@@ -1,11 +1,6 @@
 ## Leslie Gyamfi--@starboyles | Software Engineer and Docs Engineer/Technical Writer
 
-I am a software engineer and a freelance technical wrtier/documentation engineer.
-
-
-
-
-
+I am a software engineer and a freelance technical writer/documentation engineer.
 
 # 🔧 Skills
 
@@ -20,3 +15,4 @@ I am a software engineer and a freelance technical wrtier/documentation engineer
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
