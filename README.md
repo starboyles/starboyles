@@ -25,3 +25,5 @@ I am a software engineer and a freelance technical writer/documentation engineer
   
 ## Articles
 * https://github.com/starboyles/technical-articles-
+
+[LinkedIn Here - Connect With Me](www.linkedin.com/in/lesliegyamfi)
