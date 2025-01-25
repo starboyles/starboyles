@@ -21,7 +21,7 @@ I am a software engineer and a freelance technical writer/documentation engineer
 
 ## Milestones
 * 50+ original technical articles written
-* Two official documentations designed - For [Insurerity Digital Limited](https://insurerity.com/) and [Yemaachi Biotech Company: Creating The World's Most Robust Cancer Knowledge Base ](https://www.yemaachi.com/)
+* Three official documentations designed - For [Insurerity Digital Limited](https://insurerity.com/) and [Yemaachi Biotech Company: Creating The World's Most Robust Cancer Knowledge Base ](https://www.yemaachi.com/)
   
 ## Articles
 * https://github.com/starboyles/technical-articles
