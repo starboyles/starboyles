@@ -1,4 +1,4 @@
-# Leslie Gyamfi | Software Developer | Docs Engineer
+# Leslie Gyamfi | Software Engineer | Docs Engineer
 
 I am a software engineer and a freelance technical writer/documentation engineer.
 
