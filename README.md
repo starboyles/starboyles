@@ -1,6 +1,6 @@
 # Leslie Gyamfi | Software Engineer | Docs Engineer
 
-I am a software engineer and a freelance technical writer/documentation engineer.
+I am a software engineer, documentation engineer, and a freelance technical writer.
 
 ## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lesliegyamfi)
